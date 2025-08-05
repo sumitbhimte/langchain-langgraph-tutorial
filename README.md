@@ -39,7 +39,7 @@ pip install google-generativeai langchain langchain-google-vertexai langchain_go
 
 ### Usage
 
-Open [Langchain.ipynb](/Users/sumit/Downloads/Langchain.ipynb) in Jupyter or VS Code and run the cells sequentially.  
+Open [Langchain.ipynb](./Langchain.ipynb) in Jupyter or VS Code and run the cells sequentially.  
 The notebook is organized into sections with markdown headers for easy navigation.
 
 - **API Keys:**  
