@@ -80,8 +80,8 @@ The notebook is organized into sections with markdown headers for easy navigatio
 ## References
 
 - [LangChain Documentation](https://python.langchain.com/)
-- [LangGraph Documentation](https://langgraph.readthedocs.io/)
-- [LangSmith](https://smith.langchain.com/)
+- [LangGraph Documentation](https://www.langchain.com/langgraph)
+- [LangSmith](https://docs.smith.langchain.com/)
 
 ---
 
